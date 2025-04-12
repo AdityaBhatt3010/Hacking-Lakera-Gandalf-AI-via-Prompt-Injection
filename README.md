@@ -6,6 +6,8 @@ The rise of Large Language Models (LLMs) like GPT, Claude, and LLaMA has transfo
 
 Prompt injection is like a social engineering attack for AI. You trick the model into doing something it's not supposed to — leaking secrets, bypassing filters, or revealing internal logic. In this realm, **AI becomes both the target and the tool** — a fascinating duality for security professionals.
 
+![Image](https://github.com/user-attachments/assets/ffefe1e3-3ca1-43af-a25b-3408a6eab708) <br/>
+
 ---
 
 ## 🧙 Meet Lakera Gandalf
